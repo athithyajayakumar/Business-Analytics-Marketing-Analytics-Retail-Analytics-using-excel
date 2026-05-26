@@ -9,4 +9,5 @@ Core Excel Data Analysis Skills
 Deriving Business Value
 * Interpretation of Business Insights from Data
 
-<img width="1765" height="651" alt="image" src="https://github.com/user-attachments/assets/0791472e-d220-48dd-ba4d-5df95b1b324e" />
+<img width="1395" height="709" alt="image" src="https://github.com/user-attachments/assets/726a4a99-0979-43c6-8a95-e8f7d760602a" />
+<img width="1392" height="659" alt="image" src="https://github.com/user-attachments/assets/4fd2b4fa-7bf9-4b3c-a0f7-2496fe758f25" />
